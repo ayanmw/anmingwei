@@ -1,1 +1,2 @@
-baseurl: /anmingwei
+markdown: rdiscount
+pygments: true
