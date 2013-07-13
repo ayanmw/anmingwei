@@ -1,2 +1,4 @@
+baseurl: 
+url: http://jekyll.anmingwei.cn
 markdown: rdiscount
 pygments: true
